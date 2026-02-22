@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://coreessenceyoga.pages.dev/sitemap.xml
+Sitemap: https://www.coreessenceyoga.com/sitemap.xml
